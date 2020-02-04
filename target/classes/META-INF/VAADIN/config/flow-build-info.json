@@ -1,0 +1,7 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/home/quive/projects/vaadin",
+  "generatedFolder": "/home/quive/projects/vaadin/target/frontend",
+  "frontendFolder": "/home/quive/projects/vaadin/frontend"
+}

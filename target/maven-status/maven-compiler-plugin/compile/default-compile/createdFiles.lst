@@ -1,0 +1,5 @@
+com/packagename/myapp/RequestNuit.class
+com/packagename/myapp/Application.class
+com/packagename/myapp/GreetService.class
+com/packagename/myapp/RequestNuit$RequestNuitModel.class
+com/packagename/myapp/MainView.class
